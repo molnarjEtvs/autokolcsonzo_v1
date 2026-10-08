@@ -1,0 +1,13 @@
+﻿auto_id;kategoria_id;tipus;rendszam;napi_ar;elerheto;rogzites_datuma
+1;1;Toyota Yaris;ABC-123;8500;True;2026-09-01
+2;1;Suzuki Swift;DEF-456;8000;True;2026-09-03
+3;2;Volkswagen Golf;GHI-789;10500;False;2026-09-05
+4;2;Ford Focus;JKL-234;10000;True;2026-09-07
+5;3;Skoda Octavia;MNO-567;12000;True;2026-09-10
+6;3;Toyota Corolla;PQR-890;11500;False;2026-09-12
+7;4;Nissan Qashqai;STU-345;14500;True;2026-09-15
+8;4;Hyundai Tucson;VWX-678;15000;True;2026-09-17
+9;5;BMW 320i;YZA-901;22000;False;2026-09-20
+10;5;Audi A4;BCD-234;21000;True;2026-09-22
+11;6;Ford Tourneo;EFG-567;18000;True;2026-09-24
+12;6;Volkswagen Caddy;HIJ-890;16500;True;2026-09-26
